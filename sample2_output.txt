@@ -1,0 +1,18 @@
+Construction Zone Parameters
+Initial Cars - Left Side:1 Right Side:1
+Construction Zone - Cross Time:20 Car Capacity:3
+Flagger - Time before flipping direction:100
+Car 0 - Crossing Count:1 Sleep Time:100 Initial Direction:LEFT->RIGHT
+Car 1 - Crossing Count:1 Sleep Time:100 Initial Direction:RIGHT->LEFT
+Flagger indicating safe to drive LEFT->RIGHT
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 0 has finished all crossings
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 1 has finished all crossings
+Flagger indicating unsafe to drive
+Flagger has finished
+Simulation ended
+Car 0 waited a total of 78858 ns
+Car 1 waited a total of 227524 ns

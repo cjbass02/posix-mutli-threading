@@ -1,0 +1,179 @@
+Construction Zone Parameters
+Initial Cars - Left Side:4 Right Side:3
+Construction Zone - Cross Time:20 Car Capacity:3
+Flagger - Time before flipping direction:100
+Car 0 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 1 - Crossing Count:10 Sleep Time:50 Initial Direction:LEFT->RIGHT
+Car 2 - Crossing Count:8 Sleep Time:300 Initial Direction:LEFT->RIGHT
+Car 3 - Crossing Count:2 Sleep Time:100 Initial Direction:LEFT->RIGHT
+Car 4 - Crossing Count:20 Sleep Time:40 Initial Direction:RIGHT->LEFT
+Car 5 - Crossing Count:10 Sleep Time:50 Initial Direction:RIGHT->LEFT
+Car 6 - Crossing Count:30 Sleep Time:10 Initial Direction:RIGHT->LEFT
+Flagger indicating safe to drive LEFT->RIGHT
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 3 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 30
+Car 3 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 3 has finished all crossings
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 20
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 19
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 29
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 18
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 28
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 27
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 17
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Flagger indicating unsafe to drive
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 26
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 16
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Flagger indicating safe to drive LEFT->RIGHT
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 15
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 25
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 24
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 14
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 23
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 13
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 12
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 1 has finished all crossings
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 22
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 11
+Car 5 has finished all crossings
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 21
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Flagger indicating unsafe to drive
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 20
+Flagger indicating safe to drive LEFT->RIGHT
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 19
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 18
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 2 has finished all crossings
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 17
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 16
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 0 has finished all crossings
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 15
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 14
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 13
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 12
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 4 has finished all crossings
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 11
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 6 has finished all crossings
+Flagger indicating unsafe to drive
+Flagger has finished
+Simulation ended
+Car 0 waited a total of 602691 ns
+Car 1 waited a total of 700225 ns
+Car 2 waited a total of 331947 ns
+Car 3 waited a total of 106 ns
+Car 4 waited a total of 1625766 ns
+Car 5 waited a total of 885196 ns
+Car 6 waited a total of 3443531 ns

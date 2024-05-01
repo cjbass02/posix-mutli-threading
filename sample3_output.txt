@@ -1,0 +1,562 @@
+Construction Zone Parameters
+Initial Cars - Left Side:20 Right Side:20
+Construction Zone - Cross Time:20 Car Capacity:100
+Flagger - Time before flipping direction:100
+Car 0 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 1 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 2 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 3 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 4 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 5 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 6 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 7 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 8 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 9 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 10 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 11 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 12 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 13 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 14 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 15 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 16 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 17 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 18 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 19 - Crossing Count:10 Sleep Time:200 Initial Direction:LEFT->RIGHT
+Car 20 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 21 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 22 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 23 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 24 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 25 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 26 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 27 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 28 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 29 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 30 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 31 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 32 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 33 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 34 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 35 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 36 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 37 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 38 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Car 39 - Crossing Count:10 Sleep Time:200 Initial Direction:RIGHT->LEFT
+Flagger indicating safe to drive LEFT->RIGHT
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 10 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 12 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 13 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 31 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 27 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 36 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Flagger indicating unsafe to drive
+Car 35 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 28 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 22 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 21 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 20 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 24 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 25 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 33 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 37 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Flagger indicating safe to drive LEFT->RIGHT
+Car 27 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 36 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 31 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 21 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 25 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 18 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 35 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 17 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 20 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 7 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 8 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 15 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 24 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 19 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 33 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 16 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 28 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 14 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 11 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Flagger indicating unsafe to drive
+Car 9 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Car 22 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 37 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 3 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 10
+Flagger indicating safe to drive RIGHT->LEFT
+Car 33 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 27 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 37 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 21 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 30 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 29 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 26 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 19 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 23 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 18 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 38 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 20 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 31 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 15 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 8 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 32 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 35 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 22 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 12 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 11 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 9 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 3 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 25 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 34 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 39 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 10
+Car 7 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Flagger indicating unsafe to drive
+Car 24 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 10 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 13 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 17 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 16 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 28 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 14 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 9
+Car 36 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Flagger indicating safe to drive LEFT->RIGHT
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 24 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 34 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 37 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 33 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 26 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 22 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 21 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 10 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 25 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 14 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 11 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 3 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 27 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 13 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 16 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 36 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 29 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 23 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 20 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Flagger indicating unsafe to drive
+Car 15 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 38 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 32 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 12 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 9 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 17 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 30 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 28 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 7 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 39 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 9
+Car 31 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 18 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 19 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 8 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 8
+Car 35 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Flagger indicating safe to drive RIGHT->LEFT
+Car 15 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 12 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 27 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 37 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 26 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 18 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 34 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 23 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 9 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 29 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 21 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 25 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 38 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 22 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Flagger indicating unsafe to drive
+Car 36 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 10 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 30 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 17 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 31 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 28 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 19 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 24 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 8 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 33 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 20 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 13 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 35 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 11 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 32 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 16 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 3 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 14 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Car 39 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 8
+Car 7 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 7
+Flagger indicating safe to drive LEFT->RIGHT
+Car 35 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 37 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 27 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 34 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 21 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 13 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 11 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 25 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 18 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Flagger indicating unsafe to drive
+Car 23 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 32 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 29 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 15 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 38 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 14 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 12 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 9 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 16 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 10 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 17 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 28 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 31 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 30 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 26 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 33 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 22 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 19 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 8 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 3 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 24 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 39 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 7
+Car 7 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 6
+Car 36 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 20 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Flagger indicating safe to drive RIGHT->LEFT
+Car 33 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 27 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 34 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 37 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Flagger indicating unsafe to drive
+Car 24 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 26 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 39 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 7 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 22 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 36 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 13 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 11 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 19 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 21 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 25 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 23 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 20 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 32 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 29 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 18 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 8 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 12 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 15 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 35 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 9 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 38 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 10 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 31 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 30 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 6
+Car 17 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 28 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 16 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 14 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Car 3 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 5
+Flagger indicating safe to drive LEFT->RIGHT
+Car 28 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 14 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 37 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 31 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 24 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 26 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 33 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 34 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 30 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 25 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 21 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 22 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 16 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 13 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 5 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 3 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 11 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 39 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 7 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 23 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 36 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 19 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 20 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 18 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 32 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 29 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 12 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 8 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 9 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 35 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Flagger indicating unsafe to drive
+Car 15 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 38 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 5
+Car 27 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 10 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Car 17 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 4
+Flagger indicating safe to drive RIGHT->LEFT
+Car 27 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 24 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 13 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 5 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 5 has finished all crossings
+Car 37 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 34 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 21 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 29 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 15 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 25 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 39 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 38 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 10 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 7 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 17 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 36 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 28 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 23 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 14 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 32 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 20 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 18 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Flagger indicating unsafe to drive
+Car 12 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 33 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 9 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 26 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 30 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 4
+Car 22 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 31 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 11 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 16 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 19 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 3 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Car 35 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 8 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 3
+Flagger indicating safe to drive LEFT->RIGHT
+Car 32 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 33 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 7 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 33 has finished all crossings
+Car 34 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 17 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 21 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 1 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 36 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 36 has finished all crossings
+Car 21 has finished all crossings
+Car 28 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 28 has finished all crossings
+Car 22 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 22 has finished all crossings
+Car 30 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 24 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 24 has finished all crossings
+Car 11 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 25 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 20 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 19 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 20 has finished all crossings
+Car 23 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 25 has finished all crossings
+Car 26 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 27 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Flagger indicating unsafe to drive
+Car 27 has finished all crossings
+Car 6 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 15 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 10 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 37 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 37 has finished all crossings
+Car 38 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 39 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 2 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 31 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 31 has finished all crossings
+Car 18 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 14 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 4 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 29 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 3
+Car 12 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 9 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 0 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 13 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 16 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Flagger indicating safe to drive RIGHT->LEFT
+Car 23 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 6 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 6 has finished all crossings
+Car 34 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 30 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 11 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 11 has finished all crossings
+Car 19 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 19 has finished all crossings
+Car 39 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 26 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 1 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 1 has finished all crossings
+Car 15 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 15 has finished all crossings
+Car 32 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 10 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 10 has finished all crossings
+Car 7 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 7 has finished all crossings
+Car 2 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Flagger indicating unsafe to drive
+Car 2 has finished all crossings
+Car 38 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 18 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 18 has finished all crossings
+Car 17 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 17 has finished all crossings
+Car 14 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 14 has finished all crossings
+Car 4 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 4 has finished all crossings
+Car 29 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 2
+Car 12 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 12 has finished all crossings
+Car 9 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 9 has finished all crossings
+Car 0 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 0 has finished all crossings
+Car 13 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 13 has finished all crossings
+Car 16 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 16 has finished all crossings
+Flagger indicating safe to drive LEFT->RIGHT
+Car 34 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 34 has finished all crossings
+Car 3 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 29 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 29 has finished all crossings
+Car 30 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 30 has finished all crossings
+Car 23 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 23 has finished all crossings
+Car 8 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 2
+Car 32 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 32 has finished all crossings
+Car 26 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 26 has finished all crossings
+Car 35 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 35 has finished all crossings
+Car 38 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 38 has finished all crossings
+Car 39 entering construction zone traveling: LEFT->RIGHT Crossings Remaining 1
+Car 39 has finished all crossings
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 3 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 3 has finished all crossings
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Car 8 entering construction zone traveling: RIGHT->LEFT Crossings Remaining 1
+Car 8 has finished all crossings
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive LEFT->RIGHT
+Flagger indicating unsafe to drive
+Flagger indicating safe to drive RIGHT->LEFT
+Flagger indicating unsafe to drive
+Flagger has finished
+Simulation ended
+Car 0 waited a total of 5638348 ns
+Car 1 waited a total of 5622344 ns
+Car 2 waited a total of 4199443 ns
+Car 3 waited a total of 4036630 ns
+Car 4 waited a total of 5990086 ns
+Car 5 waited a total of 2993527 ns
+Car 6 waited a total of 4834022 ns
+Car 7 waited a total of 4350958 ns
+Car 8 waited a total of 5161366 ns
+Car 9 waited a total of 4584173 ns
+Car 10 waited a total of 3740849 ns
+Car 11 waited a total of 4726922 ns
+Car 12 waited a total of 4451651 ns
+Car 13 waited a total of 4166610 ns
+Car 14 waited a total of 3794452 ns
+Car 15 waited a total of 5082508 ns
+Car 16 waited a total of 3201136 ns
+Car 17 waited a total of 4040240 ns
+Car 18 waited a total of 4312202 ns
+Car 19 waited a total of 3760692 ns
+Car 20 waited a total of 3802937 ns
+Car 21 waited a total of 5177239 ns
+Car 22 waited a total of 4299938 ns
+Car 23 waited a total of 7234867 ns
+Car 24 waited a total of 3868033 ns
+Car 25 waited a total of 5060232 ns
+Car 26 waited a total of 6034854 ns
+Car 27 waited a total of 5386973 ns
+Car 28 waited a total of 2974551 ns
+Car 29 waited a total of 6555834 ns
+Car 30 waited a total of 4267001 ns
+Car 31 waited a total of 2887603 ns
+Car 32 waited a total of 4822099 ns
+Car 33 waited a total of 4197984 ns
+Car 34 waited a total of 8077593 ns
+Car 35 waited a total of 4131256 ns
+Car 36 waited a total of 3854827 ns
+Car 37 waited a total of 4849989 ns
+Car 38 waited a total of 4485233 ns
+Car 39 waited a total of 3696912 ns
